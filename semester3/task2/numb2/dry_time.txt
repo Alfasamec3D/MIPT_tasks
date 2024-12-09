@@ -1,0 +1,5 @@
+plate 1
+spoon 2
+cup 1
+fork 2
+knife 1
